@@ -1,4 +1,3 @@
 # ./kustomization.yaml
 resources:
 - deploy.yaml
-- deplo1.yaml
