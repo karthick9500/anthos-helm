@@ -1,4 +1,5 @@
 # ./kustomization.yaml
 resources:
+- istiod
 - base
 - poc
